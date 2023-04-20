@@ -37,10 +37,10 @@ customers in their system and how their ordering behaviors differ. For example:
 
 # Dataset
 ## CareerFoundry Dataset
-[Customers Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-[Products Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
-- This data set was fabricated for the purpose of this project. 
+These dataset was fabricated for the purpose of the project
+- [Customers Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+- [Products Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 
 ## Instacart Dataset
-[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-[Instacart Dataset](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+- [Instacart Dataset](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
